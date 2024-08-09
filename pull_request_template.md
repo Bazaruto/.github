@@ -1,8 +1,8 @@
 ### Related issue
 [Link to issue](https://bazaruto.atlassian.net/browse/BAP-XXXX)
 
-### Feature Flag (if used) 
-<!-- Add in the Feature Flag if one has been used -->
+### Feature Flag (or reason if not used)
+<!-- Add in the Feature Flag or an explanation why if one has not been used -->
 
 ### What does this change?
 <!-- In summary, what does this change for the user? Otherwise, what does this change technically? -->
