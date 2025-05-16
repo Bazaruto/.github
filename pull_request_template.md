@@ -1,3 +1,5 @@
+/windsurf
+
 ### Related issue
 [Link to issue](https://bazaruto.atlassian.net/browse/BAP-XXXX)
 
