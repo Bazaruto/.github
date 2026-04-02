@@ -1,7 +1,7 @@
 /windsurf
 
 ### Related issue
-[Link to issue](https://bazaruto.atlassian.net/browse/BAP-XXXX)
+[Link to issue](https://linear.app/nawirigroup/issue/XXX-XXXX)
 
 ### Feature Flag (or reason if not used)
 <!-- Add in the Feature Flag or an explanation why if one has not been used -->
