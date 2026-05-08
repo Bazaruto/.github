@@ -1,4 +1,4 @@
-/windsurf
+<!-- Use simple and jargon free language to complete this template -->
 
 ### Related issue
 [Link to issue](https://linear.app/nawirigroup/issue/XXX-XXXX)
@@ -9,7 +9,7 @@
 ### What does this change?
 <!-- In summary, what does this change for the user? Otherwise, what does this change technically? -->
 
-### How did you action this task?
+### How did you implement this task?
 <!-- List the steps you took in summary.
 Keep this summary short and to the point; make sure it's a useful guide to your reviewer. Eg. below:
 
@@ -19,9 +19,8 @@ Keep this summary short and to the point; make sure it's a useful guide to your 
 -->
 
 ### What tests were added/updated?
-<!--  This includes automated or acceptance tests. -->
-
--
+<!-- This includes automated or acceptance tests. -->
+<!-- Describe what testing has covered and changed rather than listing the test files -->
 
 ### Checklist
 - [ ] I have performed a self-review of my own code
@@ -29,4 +28,5 @@ Keep this summary short and to the point; make sure it's a useful guide to your 
 - [ ] I have taken screenshots of front-end changes
 - [ ] I have confirmed there are no browser console errors
 
-### Screenshots (if appropriate)
+### Screenshots
+<!-- Add if available: required for Front-end PRs -->
