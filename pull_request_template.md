@@ -21,6 +21,7 @@ Keep this summary short and to the point; make sure it's a useful guide to your 
 ### What tests were added/updated?
 <!-- This includes automated or acceptance tests. -->
 <!-- Describe what testing has covered and changed rather than listing the test files -->
+<!-- Avoid listing the run commands -->
 
 ### Checklist
 - [ ] I have performed a self-review of my own code
